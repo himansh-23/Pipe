@@ -4,4 +4,6 @@ print(5+3)
 
 def substract(a,b):
   return a-b;
-  
+
+print(substract(3,5))
+
