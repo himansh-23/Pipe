@@ -7,3 +7,5 @@ def substract(a,b):
 
 print(substract(3,5))
 
+  
+print(substract(5,3))
