@@ -9,3 +9,5 @@ print(substract(3,5))
 
   
 print(substract(5,3))
+
+print(substract(8,8))
